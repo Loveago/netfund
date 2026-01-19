@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
+  <rect x="0" y="0" width="256" height="256" rx="0" fill="#1E3A73"/>
+  <path
+    d="M0 160 C 40 150, 80 140, 128 148 C 176 156, 208 176, 256 168 L 256 256 L 0 256 Z"
+    fill="#E31B23"
+  />
+  <text x="128" y="128" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="120" font-weight="800" fill="#FFFFFF">
+    at
+  </text>
+</svg>
