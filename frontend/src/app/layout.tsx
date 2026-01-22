@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lofaq Data Hub",
+  title: "Netfund 2.0",
   description: "Fast, secure, and reliable data bundles.",
   icons: {
     icon: "/favicon.svg",
