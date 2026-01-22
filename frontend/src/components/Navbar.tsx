@@ -235,10 +235,7 @@ export function Navbar() {
             <div className="flex items-center gap-3">
               <Link href="/" className="flex items-center gap-2 rounded-full px-2 py-1">
                 <img src="/netfund-logo.svg" alt="Netfund 2.0" className="h-8 w-auto" />
-                <div className="flex items-center gap-1 text-sm font-semibold">
-                  <span className="text-blue-600">Netfund</span>
-                  <span className="text-cyan-500">2.0</span>
-                </div>
+                <div className="text-sm font-semibold text-blue-600">Netfund</div>
               </Link>
 
               <nav className="hidden items-center gap-1 md:flex">
@@ -399,10 +396,7 @@ export function Navbar() {
           <div className="flex items-center justify-between rounded-full border border-zinc-200 bg-white/80 px-3 py-2 shadow-soft backdrop-blur dark:border-zinc-800 dark:bg-black/50 md:hidden">
             <Link href="/" className="flex items-center gap-2 rounded-full px-2 py-1">
               <img src="/netfund-logo.svg" alt="Netfund 2.0" className="h-8 w-auto" />
-              <div className="flex items-center gap-1 text-sm font-semibold">
-                <span className="text-blue-600">Netfund</span>
-                <span className="text-cyan-500">2.0</span>
-              </div>
+              <div className="text-sm font-semibold text-blue-600">Netfund</div>
             </Link>
 
             <div className="flex items-center gap-2">
